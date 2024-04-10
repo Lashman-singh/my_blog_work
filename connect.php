@@ -5,7 +5,7 @@
     Description:
  -->
  <?php
-     define('DB_DSN','mysql:host=localhost;port=3307;dbname=serverside;charset=utf8');
+     define('DB_DSN','mysql:host=localhost;port=3307;dbname=blog;charset=utf8');
      define('DB_USER','serveruser');
      define('DB_PASS','gorgonzola7!');     
      
